@@ -17,4 +17,7 @@ let townName: String = "Knowhere"
 let townDescription = "\(townName) has a population of \(population) and \(numberOfStoplights) stoplights."
 print(townDescription)
 
-// Bronze
+// Bronze Challenge
+var unemployment: Int = 100
+let townUE = "This town has \(unemployment) of unemployed workers."
+print(townUE)
