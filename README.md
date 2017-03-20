@@ -10,5 +10,13 @@ playground for macOS with xCode 8
 
 #### Chapter 2: Types, Constants and Variables
 
-#### Chapter 3:
+#### Chapter 3: Numbers
+
+#### Chapter 4: 
+
+#### Chapter 5: switch case
+
+#### Chapter 6: Loop (while/for)
+
+
 
