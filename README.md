@@ -18,5 +18,9 @@ playground for macOS with xCode 8
 
 #### Chapter 6: Loop (while/for)
 
+#### Chapter 7:
 
+#### Chapter 8: Optionals
+
+#### Chapter 9: Arrays
 
