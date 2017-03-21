@@ -24,3 +24,10 @@ playground for macOS with xCode 8
 
 #### Chapter 9: Arrays
 
+#### Chapter 10: Dictionaries
+
+#### Chapter 11: Sets
+
+#### Chapter 12: Functions
+
+
