@@ -26,6 +26,16 @@ class Vehicle {
     
 }
 
+class Truck: Vehicle {
+    override init() {
+        super.init()
+        
+    }
+    
+    override func drive(speedIncrease: Double) {
+        currentSpeed += speedIncrease
+    }
+}
 
 class SportsCar: Vehicle {
     
@@ -36,6 +46,10 @@ class SportsCar: Vehicle {
         
     }
     
+    override func drive(speedIncrease: Double) {
+        currentSpeed += speedIncrease * 3
+        
+    }
 }
 
 
